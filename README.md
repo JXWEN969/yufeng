@@ -2,17 +2,17 @@
 
 本仓库是对以下实验内容的汇总：
 
-- [实验1](./ML1/README.md)
+- [实验1](./MachineLearning/ML1/README.md)
 
-- [实验2](./ML2/README.md)
+- [实验2](./MachineLearning/ML2/README.md)
 
-- [实验3 (待完成)](./ML3/README.md) 
+- [实验3 (TODO)](./MachineLearning/ML3/README.md) 
 
-- [实验4](./ML4/README.md)
+- [实验4](./MachineLearning/ML4/README.md)
 
-- [实验5](./ML5/README.md)
+- [实验5](./MachineLearning/ML5/README.md)
 
-- [实验6](./ML6/README.md)
+- [实验6](./MachineLearning/ML6/README.md)
 
 
 # 一、 选题背景：
