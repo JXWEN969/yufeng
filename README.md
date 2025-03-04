@@ -2,6 +2,9 @@
 
 本仓库是对以下实验内容的汇总：
 
+
+## 机器学习
+
 - [实验1](./MachineLearning/ML1/README.md)
 
 - [实验2](./MachineLearning/ML2/README.md)
@@ -13,6 +16,14 @@
 - [实验5](./MachineLearning/ML5/README.md)
 
 - [实验6](./MachineLearning/ML6/README.md)
+
+
+## 深度学习
+
+- [案例1](./DeepLearning/DL1/README.md)
+
+- [案例2](./DeepLearning/DL2/README.md)
+
 
 
 # 一、 选题背景：
