@@ -32,6 +32,8 @@
 
 - [案例6](./DeepLearning/DL6/README.md)
 
+- [案例7](./DeepLearning/DL7/README.md)
+
 
 
 # 一、 选题背景：
