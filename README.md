@@ -24,6 +24,14 @@
 
 - [案例2](./DeepLearning/DL2/README.md)
 
+- [案例3](./DeepLearning/DL3/README.md)
+
+- [案例4](./DeepLearning/DL4/README.md)
+
+- [案例5](./DeepLearning/DL5/README.md)
+
+- [案例6](./DeepLearning/DL6/README.md)
+
 
 
 # 一、 选题背景：
