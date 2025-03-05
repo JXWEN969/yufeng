@@ -40,6 +40,15 @@
 
 - [案例2](./NLP/NLP2/README.md)
 
+- [案例3](./NLP/NLP3/README.md)
+
+- [案例4](./NLP/NLP4/README.md)
+
+- [案例5](./NLP/NLP5/README.md)
+
+- [案例6](./NLP/NLP6/README.md)
+
+
 
 
 # 一、 选题背景：
