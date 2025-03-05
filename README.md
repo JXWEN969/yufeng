@@ -34,6 +34,12 @@
 
 - [案例7](./DeepLearning/DL7/README.md)
 
+## 自然语言处理
+
+- [案例1](./NLP/NLP1/README.md)
+
+- [案例2](./NLP/NLP2/README.md)
+
 
 
 # 一、 选题背景：
